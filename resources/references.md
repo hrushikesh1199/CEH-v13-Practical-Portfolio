@@ -1,0 +1,56 @@
+# References & Sources
+
+- APWG Phishing Trends Reports — https://apwg.org
+- AWS Well-Architected Framework — Security Pillar
+- Aircrack-ng Documentation — https://www.aircrack-ng.org/documentation.html
+- Android Developers — ADB Documentation
+- CIS Benchmarks — https://www.cisecurity.org/cis-benchmarks
+- CISA DDoS Quick Reference Guide
+- CISA ICS Advisories — https://www.cisa.gov/ics
+- CVE-2021-44228 — NVD
+- CWE — https://cwe.mitre.org
+- EC-Council CEH v13 Module 02
+- EC-Council CEH v13 Module 03
+- EC-Council CEH v13 Module 04
+- EC-Council CEH v13 Module 05
+- EC-Council CEH v13 Module 06
+- EC-Council CEH v13 Module 07
+- EC-Council CEH v13 Module 08
+- EC-Council CEH v13 Module 09
+- EC-Council CEH v13 Module 10
+- EC-Council CEH v13 Module 11
+- EC-Council CEH v13 Module 12
+- EC-Council CEH v13 Module 13
+- EC-Council CEH v13 Module 14
+- EC-Council CEH v13 Module 15
+- EC-Council CEH v13 Module 16
+- EC-Council CEH v13 Module 17
+- EC-Council CEH v13 Module 18
+- EC-Council CEH v13 Module 19
+- EC-Council CEH v13 Module 20
+- EC-Council CEH v13 Official Courseware
+- Google Hacking Database (GHDB) — https://www.exploit-db.com/google-hacking-database
+- Hybrid Analysis — https://www.hybrid-analysis.com
+- Impacket Project — https://github.com/fortra/impacket
+- LOLBAS Project — https://lolbas-project.github.io
+- MITRE ATT&CK Framework — https://attack.mitre.org
+- MITRE ATT&CK — Credential Access (TA0006)
+- MITRE ATT&CK — Malware techniques
+- Microsoft Entra ID Security Documentation
+- NIST Cybersecurity Framework — https://www.nist.gov/cyberframework
+- NIST FIPS 140-3
+- NVD — https://nvd.nist.gov
+- Nmap Official Reference Guide — https://nmap.org/book/
+- OWASP ASVS — https://owasp.org/www-project-application-security-verification-standard/
+- OWASP Cryptographic Storage Cheat Sheet
+- OWASP IoT Top 10
+- OWASP Mobile Application Security (MASVS)
+- OWASP SQL Injection Prevention Cheat Sheet
+- OWASP Session Management Cheat Sheet
+- OWASP Testing Guide — Information Gathering
+- OWASP Top 10 — https://owasp.org/www-project-top-ten/
+- OWASP Web Server Hardening Guide
+- Snort Documentation — https://www.snort.org/documents
+- Wi-Fi Alliance — WPA3 Specification
+- Wireshark User Guide — https://www.wireshark.org/docs/
+- sqlmap Documentation — https://github.com/sqlmapproject/sqlmap

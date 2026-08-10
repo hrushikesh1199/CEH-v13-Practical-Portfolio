@@ -1,0 +1,90 @@
+# Tools Reference
+
+Consolidated list of all tools used across the CEH v13 curriculum:
+
+- AADInternals (PowerShell)
+- AD Explorer
+- ADB (Android Debug Bridge)
+- AVG Mobile Security
+- AWS CLI
+- Aircrack-ng suite (airmon-ng, airodump-ng, aireplay-ng)
+- Anti DDoS Guardian
+- BITSAdmin (Windows built-in)
+- Burp Suite
+- CEH iLabs Cloud Range
+- CVE/CVSS databases
+- CWE
+- Caido
+- Cain & Abel (concept)
+- Cloud-based scrubbing/WAF (concept)
+- Cowrie honeypot
+- CrackMapExec
+- CryptoForge
+- CurrPorts
+- CyberChef
+- DNSDumpster
+- Detect It Easy (DIE)
+- GoPhish (awareness campaigns)
+- Google Dorks/GHDB
+- Hetty
+- Hybrid Analysis (sandbox)
+- Hydra
+- IDA Free
+- Impacket (GetNPUsers/GetUserSPNs)
+- Log4Shell lab range (isolated)
+- Metasploit
+- Metasploit Framework (auxiliary/scanner)
+- Mimikatz (concept-level)
+- MobSF (Mobile Security Framework)
+- N-Stalker
+- Nessus
+- Netcraft
+- Nmap
+- Nmap NSE (http-*)
+- Nmap NSE (smtp-enum-users)
+- OWASP ZAP
+- OllyDbg
+- OpenSSL
+- OpenVAS/GVM
+- Parrot/Kali Security OS
+- PhoneSploit-Pro
+- PowerView
+- Process Monitor (Sysinternals)
+- RPCScan
+- Recon-ng
+- Responder
+- ScoutSuite / Prowler (cloud posture)
+- ShellGPT
+- Sherlock
+- Shodan
+- SmartScanner
+- Snort
+- Social-Engineer Toolkit (SET)
+- SuperEnum
+- TCPView
+- Telnet
+- Trivy
+- VeraCrypt
+- VirusTotal
+- WHOIS/Domain Tools
+- Windows Event Viewer
+- Windows/Linux victim VMs
+- Wireshark
+- Wireshark (traffic baseline analysis)
+- Yersinia
+- Zenmap
+- arpwatch
+- auditd
+- can-utils (SocketCAN)
+- dig
+- dig (AXFR)
+- eMailTrackerPro
+- hping3
+- macof (dsniff suite)
+- nbtstat
+- net view
+- nslookup
+- pfSense/iptables
+- snmpwalk
+- sqlmap
+- traceroute/tracert
